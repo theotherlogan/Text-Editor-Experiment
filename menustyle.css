@@ -1,0 +1,26 @@
+#menu {
+    -fx-background-color: #486B75;
+    -fx-spacing: 5;
+}
+
+#menu .button {
+    -fx-pref-height: 30;
+    -fx-pref-width: 200;
+    -fx-background-color: #59838F;
+}
+
+#menu .combo-box {
+    -fx-pref-height: 30;
+    -fx-pref-width: 200;
+    -fx-background-color: #59838F;
+}
+
+#menu .list-cell {
+    -fx-pref-height: 30;
+    -fx-pref-width: 200;
+    -fx-background-color: #59838F;
+}
+
+#menu .button:hover {
+    -fx-background-color: #AEB0B0;
+}

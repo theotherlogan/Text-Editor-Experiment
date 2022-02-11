@@ -1,0 +1,11 @@
+#text {
+    -fx-text-fill: white;
+}
+#text .content {
+    -fx-background-color: #353536;
+      }
+#text .scroll-bar {
+    -fx-background-color: #353536;
+    -fx-foreground-color: #AEB0B0;
+}
+
